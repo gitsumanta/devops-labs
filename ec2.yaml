@@ -1,9 +1,0 @@
-AWSTemplateFormatVersion: '2010-09-09'
-
-Resources:
-  MyS3Bucket:
-    Type: AWS::S3::Bucket
-    Properties:
-      BucketName: my-demo-sumanta-bucket-123456
-      VersioningConfiguration:
-        Status: Suspended
