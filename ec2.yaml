@@ -6,4 +6,4 @@ Resources:
     Properties:
       BucketName: my-demo-sumanta-bucket-123456
       VersioningConfiguration:
-        Status: Disabled
+        Status: Suspended
